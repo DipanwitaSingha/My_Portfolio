@@ -50,8 +50,9 @@ I believe in learning by building, experimenting beyond tutorials, and turning c
 I'm open to learning opportunities, internships, collaborations, and connecting with people who enjoy building impactful technology.
 
 - **GitHub:** [@DipanwitaSingha](https://github.com/DipanwitaSingha)
-- **LinkedIn:** [Connect with me](PASTE_YOUR_LINKEDIN_LINK_HERE)
-- **Portfolio:** [Visit Website](PASTE_YOUR_PORTFOLIO_LINK_HERE)
+- **LinkedIn:** [Connect with me](www.linkedin.com/in/dipanwita-singha-979a30380)
+- **Portfolio:** [Visit Website](https://dipanwitasinghaportfolio.app.orvisai.com)
+- **Email ID:** [Connect with me]dipanwitasingha673@gmail.com
 
 ---
 
