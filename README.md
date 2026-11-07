@@ -1,4 +1,3 @@
-# My_Portfolio
 # Welcome to My Personal Portfolio – Dipanwita Singha
 
 A little space on the internet where technology meets creativity, ideas turn into experiences, and every project reflects my journey as a developer.
@@ -52,7 +51,7 @@ I'm open to learning opportunities, internships, collaborations, and connecting 
 - **GitHub:** [@DipanwitaSingha](https://github.com/DipanwitaSingha)
 - **LinkedIn:** [Connect with me](www.linkedin.com/in/dipanwita-singha-979a30380)
 - **Portfolio:** [Visit Website](https://dipanwitasinghaportfolio.app.orvisai.com)
-- **Email ID:** [Connect with me]dipanwitasingha673@gmail.com
+- **Email ID:** [Connect with me](dipanwitasingha673@gmail.com)
 
 ---
 
