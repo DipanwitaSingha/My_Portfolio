@@ -3,6 +3,7 @@
 A little space on the internet where technology meets creativity, ideas turn into experiences, and every project reflects my journey as a developer.
 
 🌐 **Explore My Portfolio:** [View My Live Portfolio](https://dipanwitasinghaportfolio.app.orvisai.com)
+🌐 **Explore My Portfolio:** [View My Live Portfolio](https://portfolio2.app.orvisai.com).
 
 ## ✨ About This Portfolio
 
@@ -59,3 +60,4 @@ I'm open to learning opportunities, internships, collaborations, and connecting 
   <i>Designed with curiosity. Developed with passion. Driven by possibilities.</i>
 </p>
 https://dipanwitasinghaportfolio.app.orvisai.com
+https://portfolio2.app.orvisai.com
