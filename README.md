@@ -6,6 +6,8 @@ A little space on the internet where technology meets creativity, ideas turn int
 
 🌐 **Explore My Portfolio:** [View My Live Portfolio](https://portfolio2.app.orvisai.com).
 
+🌐 **Explore My Portfolio:** [View My Live Portfolio](https://dipanwitasingha.github.io/My_Portfolio/)
+
 ## ✨ About This Portfolio
 
 This portfolio is designed to showcase my technical skills, projects, certifications, and development journey through an interactive and modern web experience. It highlights my approach to building digital solutions, experimenting with emerging technologies, and continuously improving my development skills.
