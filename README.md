@@ -6,7 +6,7 @@ A little space on the internet where technology meets creativity, ideas turn int
 
 🌐 **Explore My Portfolio:** [View My Live Portfolio](https://claude.ai/artifact/9ci8A4mtJd6ZwVYNGVtAY6).
 
-🌐 **Explore My Portfolio:** [https://DipanwitaSingha.github.io/My_Portfolio/](my_portfolio.html)
+🌐 **Explore My Portfolio:** [🚀 View My Live Portfolio](https://dipanwitas ingha.github.io/My_Portfolio/)
 
 ## ✨ About This Portfolio
 
